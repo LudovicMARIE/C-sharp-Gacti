@@ -1,0 +1,10 @@
+- refresh liste panier quand ajout de panier//////////////
+- Hello world a changer avec nom de l'admin
+- Etat récupérée (bouton si livrable)
+
+COMMANDES : 
+- Date/client/état de la commande quand changement index////
+- ComboBox filtre par client//////
+- Bouton préparer fonctionnel (update statut commande)//////
+- bouton annuler commande (nouveau type état)///////
+- bouton modifier panier /////
